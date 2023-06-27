@@ -6,8 +6,7 @@ permalink: /publication/MusicandBioengineering
 date: March 2020
 venue: 'Sociedad Argentina de Bioingenieria'
 paperurl: 'http://paufeld.github.io/files/SABI2020MusicandBioengineering.pdf'
-citation: 'PAULA ADI FELDMAN; MILAGROS PIDUTTI HORTAS; ALVARO GABRIEL PIZA; MYRIAM CRISTINA HERRERA
-A preliminary study of the music and bioengineering: Towards the generation of melodies through synergistic patterns of the flexor and extensor muscles of the forearm, Congreso de la Sociedad Argentina de Bioingenieria, 2020'
+citation: 'PAULA ADI FELDMAN; MILAGROS PIDUTTI HORTAS; ALVARO GABRIEL PIZA; MYRIAM CRISTINA HERRERA A preliminary study of the music and bioengineering: Towards the generation of melodies through synergistic patterns of the flexor and extensor muscles of the forearm, Congreso de la Sociedad Argentina de Bioingenieria, 2020'
 ---
 <div style="text-align: justify">
 Since a recent past, music, bioengineering and neuroscience converge into common areas of scientific/technologic interest. In 

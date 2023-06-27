@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Soy una estudiante de doctorado en el [laboratorio de Inteligencia Artificial Universidad Torcuato di Tella](https://utdt.edu/ia) y la Universidad Nacional del Sur.
-Mi investigacon se cetra en aplicaciones de deep learning y modelado generativo a estructuras vasculares
+I’m a Ph.D. student at the [laboratorio de Inteligencia Artificial Universidad Torcuato di Tella](https://utdt.edu/ia) and "Universidad Nacional del Sur". Under the supervision of [Emanuel Iarussi](https://emmanueliarussi.github.io/) and Claudio Delrieux
+My research focuses on deep learning, and geometric learning, particularly in generative modeling of vascular structures
 

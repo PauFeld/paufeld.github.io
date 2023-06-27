@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course"
 permalink: /teaching/DataViz
 venue: "Universidad de Buenos Aires - Facultad de Ciencias Exactas y Naturales - Maestria en Data Mining"
-date: 2022 and 2023
+date: 2022 
 location: "Buenos Aires, Argentina"
 ---
 <div style="text-align: justify">

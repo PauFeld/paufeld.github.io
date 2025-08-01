@@ -1,36 +1,41 @@
 ---
-title: Example Talk
+title: "Recent & Upcoming Talks"
+cms_exclude: false  # set to false if you want to display it on the CMS
+#url: talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+# View
+view: card
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: 'Poster for my upcoming talk at MICCAI 2025.'
+  filename: 'miccai_poster.jpg'  # Update with the actual file name of your poster image
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+# Add details for your upcoming and past talks
+talks:
+  - event: "MICCAI 2025"
+    location: "Daejeon, South Korea"
+    date: "2025-09"  # Replace with the actual date 
+    time: ""  # Replace with the actual time of your talk (if known)
+    description: |
+      I will be presenting my paper titled "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
+      The talk will cover the application of autoregressive models in generating 3D vascular structures and their potential impact on computational medicine.
+    image:
+      caption: "Poster for my upcoming talk at MICCAI 2025."
+      filename: "miccai_poster.jpg"
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+  - event: "Universidad Torcuato Di Tella: III Workshop in Machine Learning & Data Science"
+    location: "Buenos Aires, Argentina"
+    date: "2024-12-19"
+    description: |
+      Last year, I gave a talk at the Universidad Torcuato Di Tella on my work in vascular modeling and generative models. The session focused on the potential of AI in computational medicine and my contributions to vascular structure synthesis.
+    url: "https://www.utdt.edu/ver_evento_agenda.php?id_evento_agenda=12039&id_item_menu=38062"
+    image:
+      caption: "Poster for my talk at the Universidad Torcuato Di Tella workshop."
+      filename: "utdt_talk_poster.jpg"
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+---
 
-authors:
-  - admin
-
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

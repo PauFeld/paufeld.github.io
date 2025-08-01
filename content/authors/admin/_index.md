@@ -68,6 +68,9 @@ education:
       - A preliminary study of the music and bioengineering: Towards the generation of melodies through synergistic patterns of the flexor and extensor muscles of the forearm
 
 
+
+---
+
 ## About Me
 
 I’m a Ph.D. student at the laboratorio de Inteligencia Artificial Universidad Torcuato di Tella and Universidad Nacional del Sur. Under the supervision of Emanuel Iarussi and Claudio Delrieux My research focuses on deep learning, and geometric learning, particularly in generative modeling of vascular structures

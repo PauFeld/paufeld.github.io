@@ -3,7 +3,7 @@
 title: Paula Feldman
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Paula Adi
@@ -51,7 +51,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: Universidad Torcuato Di Tella - Universidad Nacional del Sur
     date_start: 2021-04-01
-    date_end: estimated early 2026
+    date_end: 2026
     summary: |
       Thesis on generative modelling of vasculature. Supervised by [Emmanuel Iarussi](https://emmanueliarussi.github.io/#)
     button:

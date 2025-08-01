@@ -15,7 +15,7 @@ image:
 talks:
   - event: "MICCAI 2025"
     location: "Daejeon, South Korea"
-    date: "2025-09"  # Replace with the actual date of your talk
+    date: "2025-09"  # Replace with the actual date 
     time: ""  # Replace with the actual time of your talk (if known)
     description: |
       I will be presenting my paper titled "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.

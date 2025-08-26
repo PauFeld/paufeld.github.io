@@ -3,11 +3,7 @@ title: "Recent & Upcoming Talks"
 summary: "A selection of recent and upcoming presentations."
 cms_exclude: false
 
-# Page cover (relative to `assets/media/`)
-image:
-  caption: "Poster for my upcoming talk at MICCAI 2025."
-  filename: "miccai_poster.jpg"
-  focal_point: Center
+
 
 # Optional: choose a card-style layout if your site supports it
 view: card
@@ -23,7 +19,7 @@ talks:
       I will be presenting "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
       The talk covers autoregressive modeling for generating 3D vascular structures and its impact on computational medicine.
     image:
-      filename: "static/uploads/miccai_poster.jpg"
+      filename: "static/uploads/vesselgpt.jpg"
     links:
       - icon: calendar
         icon_pack: fas
@@ -46,8 +42,7 @@ talks:
     url: "https://www.utdt.edu/ver_evento_agenda.php?id_evento_agenda=12039&id_item_menu=38062"
     
 
-# You can associate site Projects if you want badges to appear
-projects: []
+
 ---
 
 {{% callout note %}}

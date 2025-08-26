@@ -46,26 +46,3 @@ links:
 
 ---
 
-
-
-
-
-
-  - event: "Universidad Torcuato Di Tella: III Workshop in Machine Learning & Data Science"
-    location: "Buenos Aires, Argentina"
-    date: "2024-12-19"
-    description: |
-      I presented my work on vascular modeling and generative models, focusing on applications of AI in computational medicine.
-    url: "https://www.utdt.edu/ver_evento_agenda.php?id_evento_agenda=12039&id_item_menu=38062"
-    
-
-
----
-
-{{% callout note %}}
-Slides will appear here once uploaded. You can either:
-- set `slides` to a local Markdown deck; or
-- upload a PDF/PPTX to `static/` and set a direct link in the **Slides** button; or
-- embed Google Slides using shortcodes.
-{{% /callout %}}
-

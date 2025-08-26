@@ -7,7 +7,7 @@ event_url: https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Main-C
 location: "Daejeon Convention Center, Daejeon, South Korea"
     
 
-summary: I will be presenting "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
+summary: I will be presenting "VesselGPT - Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

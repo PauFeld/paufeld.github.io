@@ -1,26 +1,36 @@
 ---
-title: "Recent & Upcoming Talks"
-summary: "A selection of recent and upcoming presentations."
-#cms_exclude: false
+title: MICCAI 2025
 
+event: 28th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION
+event_url: https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Main-Conference-Detailed-Program.pdf
 
+location: "Daejeon Convention Center, Daejeon, South Korea"
+    
 
-# Optional: choose a card-style layout if your site supports it
-view: card
+summary: I will be presenting "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
 
-# Talks to render on this page (custom list)
-talks:
-  - event: "MICCAI 2025"
-    event_url: "https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Main-Conference-Detailed-Program.pdf"  # Program hub
-    location: "Daejeon Convention Center, Daejeon, South Korea"
-    date: "2025-09-25"         # Conference start
-    time: "17:00"                   # Add your session time when assigned
-    description: |
-      I will be presenting "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
-      The talk covers autoregressive modeling for generating 3D vascular structures and its impact on computational medicine.
-    image:
-      filename: "static/uploads/vesselgpt.jpg"
-    links:
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2025-09-25"         # Conference start
+time: "17:00"                   # Add your session time when assigned
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+#publishDate: '2017-01-01T00:00:00Z'
+
+#authors:
+#  - admin
+
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: true
+
+image:
+  filename: "static/uploads/vesselgpt.jpg"
+  focal_point: Right
+
+links:
       - icon: calendar
         icon_pack: fas
         name: "Conference program (PDF)"
@@ -33,6 +43,13 @@ talks:
         icon_pack: fas
         name: "Video (soon)"
         url: ""                  # add later
+
+---
+
+
+
+
+
 
   - event: "Universidad Torcuato Di Tella: III Workshop in Machine Learning & Data Science"
     location: "Buenos Aires, Argentina"

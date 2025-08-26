@@ -1,80 +1,59 @@
 ---
 title: "Recent & Upcoming Talks"
-cms_exclude: false  # set to false if you want to display it on the CMS
-#url: talk
+summary: "A selection of recent and upcoming presentations."
+cms_exclude: false
 
-# View
+# Page cover (relative to `assets/media/`)
+image:
+  caption: "Poster for my upcoming talk at MICCAI 2025."
+  filename: "miccai_poster.jpg"
+  focal_point: Center
+
+# Optional: choose a card-style layout if your site supports it
 view: card
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: 'Poster for my upcoming talk at MICCAI 2025.'
-  filename: 'miccai_poster.jpg'  # Update with the actual file name of your poster image
-
-# Add details for your upcoming and past talks
+# Talks to render on this page (custom list)
 talks:
   - event: "MICCAI 2025"
-    location: "Daejeon, South Korea"
-    date: "2025-09"  # Replace with the actual date 
-    time: ""  # Replace with the actual time of your talk (if known)
+    event_url: "https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Main-Conference-Detailed-Program.pdf"  # Program hub
+    location: "Daejeon Convention Center, Daejeon, South Korea"
+    date: "2025-09-25"         # Conference start
+    time: "17:00"                   # Add your session time when assigned
     description: |
-      I will be presenting my paper titled "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
-      The talk will cover the application of autoregressive models in generating 3D vascular structures and their potential impact on computational medicine.
+      I will be presenting "VesselGPT: Autoregressive Modeling of Vascular Geometry" at MICCAI 2025.
+      The talk covers autoregressive modeling for generating 3D vascular structures and its impact on computational medicine.
     image:
-      caption: "Poster for my upcoming talk at MICCAI 2025."
-      filename: "miccai_poster.jpg"
+      filename: "static/uploads/miccai_poster.jpg"
+    links:
+      - icon: calendar
+        icon_pack: fas
+        name: "Conference program (PDF)"
+        url: "https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Main-Conference-Detailed-Program.pdf"
+      - icon: file-powerpoint
+        icon_pack: fas
+        name: "Slides (soon)"
+        url: ""                  # add later
+      - icon: video
+        icon_pack: fas
+        name: "Video (soon)"
+        url: ""                  # add later
 
   - event: "Universidad Torcuato Di Tella: III Workshop in Machine Learning & Data Science"
     location: "Buenos Aires, Argentina"
     date: "2024-12-19"
     description: |
-      Last year, I gave a talk at the Universidad Torcuato Di Tella on my work in vascular modeling and generative models. The session focused on the potential of AI in computational medicine and my contributions to vascular structure synthesis.
+      I presented my work on vascular modeling and generative models, focusing on applications of AI in computational medicine.
     url: "https://www.utdt.edu/ver_evento_agenda.php?id_evento_agenda=12039&id_item_menu=38062"
-    image:
-      caption: "Poster for my talk at the Universidad Torcuato Di Tella workshop."
-      filename: "utdt_talk_poster.jpg"
+    
 
----
-
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+# You can associate site Projects if you want badges to appear
+projects: []
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Slides will appear here once uploaded. You can either:
+- set `slides` to a local Markdown deck; or
+- upload a PDF/PPTX to `static/` and set a direct link in the **Slides** button; or
+- embed Google Slides using shortcodes.
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.

@@ -54,9 +54,9 @@ education:
     date_end: 2026
     summary: |
       Thesis on generative modelling of vasculature. Supervised by [Emmanuel Iarussi](https://emmanueliarussi.github.io/#)
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: Biomedical Engineering
     institution: Universidad Nacional de Tucumán
     date_start: 2016-03-16

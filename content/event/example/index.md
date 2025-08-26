@@ -1,7 +1,7 @@
 ---
 title: "Recent & Upcoming Talks"
 summary: "A selection of recent and upcoming presentations."
-cms_exclude: false
+#cms_exclude: false
 
 
 

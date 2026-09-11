@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Artificial Inteligence Lab, Universidad Torcuato Di Tella
-    url: https://www.utdt.edu/ver_contenido.php?id_contenido=23180&id_item_menu=38420
+  - name: Weill Cornell Medicine
+    url: https://sabuncu.engineering.cornell.edu/people/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:paulafeldman@conicet.gov.ar'
+    url: 'mailto:paf4004@med.cornell.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/PauFeldman
@@ -43,20 +43,21 @@ profiles:
     url: https://scholar.google.com/citations?user=lTyyKYAAAAAJ&hl=es
 
 interests:
-  - Artificial Intelligence
-  - Medical Imaging
- 
+  - Cardiovascular Imaging
+  - Breast Imaging
+  - Foundation Models
+  - Self-Supervised Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Universidad Torcuato Di Tella - Universidad Nacional del Sur
+  - area: PhD in Artificial Intelligence (Engineering)
+    institution: Universidad Nacional del Sur - Universidad Torcuato Di Tella
     date_start: 2021-04-01
-    date_end: 2026
+    date_end: 2025-09-01
     summary: |
-      Thesis on generative modelling of vasculature. Supervised by [Emmanuel Iarussi](https://emmanueliarussi.github.io/#)
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+      Thesis: *Generative modeling for the synthesis of vascular anatomical structures*. Supervised by [Emmanuel Iarussi](https://emmanueliarussi.github.io/#), co-supervised by Claudio Delrieux.
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/thesis.pdf'
   - area: Biomedical Engineering
     institution: Universidad Nacional de Tucumán
     date_start: 2016-03-16
@@ -67,10 +68,18 @@ education:
       Thesis: 
       - A preliminary study of the music and bioengineering: Towards the generation of melodies through synergistic patterns of the flexor and extensor muscles of the forearm
 
-
+work:
+  - position: Postdoctoral Associate
+    company_name: Weill Cornell Medicine
+    company_url: 'https://sabuncu.engineering.cornell.edu/people/'
+    company_logo: ''
+    date_start: '2026-03-01'
+    date_end: ''
+    summary: |
+      Working under the supervision of [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/) on machine learning methods for extracting clinically meaningful information from medical images.
 
 ---
 
 ## About Me
 
-I’m a Ph.D. student at the laboratorio de Inteligencia Artificial Universidad Torcuato di Tella and Universidad Nacional del Sur. Under the supervision of Emanuel Iarussi and Claudio Delrieux My research focuses on deep learning, and geometric learning, particularly in generative modeling of vascular structures
+Paula earned her Ph.D. from Universidad Nacional del Sur and Universidad Torcuato Di Tella in Argentina. Her current work focuses on developing machine learning methods for extracting clinically meaningful information from medical images, with particular interests in cardiovascular and breast imaging, foundation models, and self-supervised learning. She is interested in leveraging large-scale medical imaging data to discover novel imaging biomarkers and develop models for disease risk prediction and early detection. Her Ph.D. research focused on vascular imaging and 3D modeling, with an emphasis on computational methods for analyzing and reconstructing vascular structures.

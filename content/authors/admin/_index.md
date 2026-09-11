@@ -26,6 +26,8 @@ role: Postdoctoral Associate
 organizations:
   - name: Weill Cornell Medicine
     url: https://weill.cornell.edu/
+  - name: Cornell Tech
+    url: https://tech.cornell.edu/
   - name: Sabuncu Lab
     url: https://sabuncu.engineering.cornell.edu/
 
@@ -72,7 +74,7 @@ education:
 
 work:
   - position: Postdoctoral Associate
-    company_name: Weill Cornell Medicine
+    company_name: Weill Cornell Medicine and Cornell Tech
     company_url: 'https://sabuncu.engineering.cornell.edu/people/'
     company_logo: ''
     date_start: '2026-03-15'
@@ -84,4 +86,4 @@ work:
 
 ## About Me
 
-I earned my Ph.D. from Universidad Nacional del Sur and Universidad Torcuato Di Tella in Argentina. I am now a Postdoctoral Associate at Weill Cornell Medicine, in the [Sabuncu Lab](https://sabuncu.engineering.cornell.edu/), where my work focuses on developing machine learning methods for extracting clinically meaningful information from medical images, with particular interests in cardiovascular and breast imaging, foundation models, and self-supervised learning. I am interested in leveraging large-scale medical imaging data to discover novel imaging biomarkers and develop models for disease risk prediction and early detection. My Ph.D. research focused on vascular imaging and 3D modeling, with an emphasis on computational methods for analyzing and reconstructing vascular structures.
+I earned my Ph.D. from Universidad Nacional del Sur and Universidad Torcuato Di Tella in Argentina. I am now a Postdoctoral Associate at Weill Cornell Medicine and Cornell Tech, in the [Sabuncu Lab](https://sabuncu.engineering.cornell.edu/), where my work focuses on developing machine learning methods for extracting clinically meaningful information from medical images, with particular interests in cardiovascular and breast imaging, foundation models, and self-supervised learning. I am interested in leveraging large-scale medical imaging data to discover novel imaging biomarkers and develop models for disease risk prediction and early detection. My Ph.D. research focused on vascular imaging and 3D modeling, with an emphasis on computational methods for analyzing and reconstructing vascular structures.

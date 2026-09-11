@@ -75,7 +75,7 @@ work:
     company_name: Weill Cornell Medicine
     company_url: 'https://sabuncu.engineering.cornell.edu/people/'
     company_logo: ''
-    date_start: '2026-03-01'
+    date_start: '2026-03-15'
     date_end: ''
     summary: |
       Working under the supervision of [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/) at the [Sabuncu Lab](https://sabuncu.engineering.cornell.edu/) on machine learning methods for extracting clinically meaningful information from medical images.

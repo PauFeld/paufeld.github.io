@@ -1,6 +1,6 @@
 ---
 title: "Started as a Postdoctoral Associate at Weill Cornell Medicine"
-date: '2026-03-01'
+date: '2026-03-15'
 summary: I joined the Sabuncu Lab at Weill Cornell Medicine as a Postdoctoral Associate, working on machine learning methods for medical imaging.
 tags: []
 ---

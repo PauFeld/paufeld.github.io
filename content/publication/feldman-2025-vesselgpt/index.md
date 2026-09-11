@@ -40,7 +40,7 @@ url_code: 'https://github.com/LIA-DiTella/VesselGPT-MICCAI'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 
-  filename: "static/uploads/vesselgpt.jpg"
+  filename: "static/uploads/vesselgpt-overview.jpg"
   focal_point: ""
   preview_only: false
 

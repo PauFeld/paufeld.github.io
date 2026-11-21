@@ -10,10 +10,10 @@ authors:
 date: '2026-09-16'
 publishDate: '2026-11-21T00:00:00.000000Z'
 publication_types:
-- article
+- paper-conference
 
-publication: '*arXiv preprint*'
-publication_short: ""
+publication: '*ML4H 2026 (Machine Learning for Health Symposium)*'
+publication_short: "ML4H 2026"
 
 # Summary. An optional shortened abstract.
 summary: Mammography foundation models, pretrained for breast cancer tasks, can opportunistically predict 5-year cardiovascular risk from a screening mammogram alone, without cardiovascular labels or BAC annotations.
